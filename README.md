@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** and **Interactive Media and Game Design** student at DigiPen Institute of Technology Singapore, passionate about creating innovative solutions across game development, AI systems, and full-stack web applications. Currently serving as **President of the DigiPen Student Management Committee**.
+I'm a **Software Engineer** and **Interactive Media and Game Development** student at DigiPen Institute of Technology Singapore, passionate about creating innovative solutions across game development, AI systems, and full-stack web applications. Currently serving as **President of the DigiPen Student Management Committee**.
 
 - 🎓 Bachelor of Computer Science in Interactive Media and Game Development
 - 🏆 Fulbright Scholar
