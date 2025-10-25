@@ -80,8 +80,6 @@ I'm a **Software Engineer** and **Interactive Media and Game Design** student at
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Clarence's GitHub stats](https://github-readme-stats.vercel.app/api?username=blarencecoey&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blarencecoey&layout=compact&theme=tokyonight)
 
