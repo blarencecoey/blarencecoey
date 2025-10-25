@@ -77,14 +77,6 @@ I'm a **Software Engineer** and **Interactive Media and Game Development** stude
 - Implemented personalized journey system with multilingual support and custom routes
 - Collaborated with international team from computer science, business, and media backgrounds
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blarencecoey&layout=compact&theme=tokyonight)
-
-</div>
-
 ## 🎓 Education
 
 **DigiPen Institute of Technology Singapore**  
