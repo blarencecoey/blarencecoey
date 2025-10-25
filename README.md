@@ -96,14 +96,6 @@ Interactive Media and Game Development
 CS50 Introduction to Computer Science Certificate
 *Feb 2020 - May 2020*
 
-## 💼 Experience
-
-**Treasury Management & Taxation Intern**  
-*Mapletree Investments Pte Ltd. | Sept 2019 - Mar 2020*
-- Performed bank reconciliations and managed accounts receivable processes
-- Utilized SAP software for financial data entry and reporting
-- Collaborated with tax team on GST analysis and reverse charge assessments
-
 ## 🌱 Currently Learning
 
 - Advanced Game Engine Architecture
@@ -126,11 +118,3 @@ CS50 Introduction to Computer Science Certificate
 - 🏛️ I've built smart glasses for a museum
 
 ---
-
-<div align="center">
-  
-### ⭐️ From [blarencecoey](https://github.com/blarencecoey)
-
-![Visitor Count](https://profile-counter.glitch.me/blarencecoey/count.svg)
-
-</div>
