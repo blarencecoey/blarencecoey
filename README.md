@@ -44,13 +44,6 @@ I'm a **Software Engineer** and **Interactive Media and Game Development** stude
 
 ## 🎯 Featured Projects
 
-### 🎮 [Custom 2D Game Engine](https://github.com/blarencecoey)
-**Design Lead | C++, C#, OpenGL, Lua, Premake**
-- Led design and gameplay tools development for Grey Goose game engine
-- Implemented comprehensive editor and deployment pipeline with installer distribution
-- Developed core engine foundations including resource and animation systems
-- Optimized asset handling and performance for smooth gameplay
-
 ### 💹 [OptiPrice](https://github.com/blarencecoey/OptiPrice)
 **Full-Stack Developer | Python, Flask, Next.js, TypeScript**
 - Built comprehensive options pricing platform with Black-Scholes, Binomial Tree, and Monte Carlo methods
