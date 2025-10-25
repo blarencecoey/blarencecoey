@@ -15,7 +15,7 @@ I'm a **Software Engineer** and **Interactive Media and Game Development** stude
 
 - 🎓 Bachelor of Computer Science in Interactive Media and Game Development
 - 🏆 Fulbright Scholar
-- 🥈 Hannam University Micro Design Hackathon 2025 - 1st Runner-Up
+- 🥈 Hannam University Micro Design Hackathon 2025
 - 🎮 Specializing in Game Engine Development, AI Simulation, and Full-Stack Development
 - 📍 Based in Singapore
 
