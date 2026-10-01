@@ -64,6 +64,16 @@ I'm a **Software Engineer** and **Interactive Media and Game Development** stude
 - Solo research and creative-technology practice at the intersection of machine learning, real-time 3D and physical space
 - Hosts research notes, systems write-ups, a journal and live demos exploring machine perception and latent representations
 
+#### 📓 Research notes from Latent Space Studio
+
+Interactive field notes, each reading a primary source on AI safety and building small explorable artefacts around it:
+
+- 🧠 **[Coconut: reasoning in a continuous latent space](https://latent-space-studio.vercel.app/Research-019.html)** (latent reasoning): on Hao et al.'s Coconut, where the last hidden state is fed back as the next input embedding. Interactive pieces on the token bottleneck, the feed-back loop and latent breadth-first search, and why that reasoning is stronger yet harder to read.
+- 🎭 **[Alignment Faking: compliance without internal change](https://latent-space-studio.vercel.app/Research-021.html)** (alignment): on Anthropic and Redwood's finding that Claude 3 Opus sometimes complied in training to avoid having its values trained away. Covers the free/paid compliance gap with scratchpad reveals, a two-layer preference landscape and the 25-model follow-up grid.
+- 📜 **[Responsible Scaling: if-then commitments and their erosion](https://latent-space-studio.vercel.app/Research-023.html)** (governance): Anthropic's RSP read as a GRC artifact, with capability thresholds that trigger control baselines, the precautionary ASL-3 activation, and eight versions of one policy. Includes an interactive if-then ladder and a version-drift timeline.
+
+More notes on the [Research index](https://latent-space-studio.vercel.app/Research.html), including [The Constitution Stack](https://latent-space-studio.vercel.app/Research-020.html) and [Defensive AI Turn](https://latent-space-studio.vercel.app/Research-018.html).
+
 ## 🧱 Earlier Work
 
 - 💹 **[OptiPrice](https://github.com/blarencecoey/OptiPrice)**: options pricing platform (Black-Scholes, Binomial Tree, Monte Carlo) with a Flask API and Next.js frontend
