@@ -11,12 +11,13 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** and **Interactive Media and Game Development** student at DigiPen Institute of Technology Singapore, passionate about creating innovative solutions across game development, AI systems, and full-stack web applications. Currently serving as **President of the DigiPen Student Management Committee**.
+I'm a **Software Engineer** and **Interactive Media and Game Development** student at DigiPen Institute of Technology Singapore. My recent work focuses on **model interpretability, AI safety and AI literacy**, alongside a background in game engines, AI simulation and full-stack development. Currently serving as **President of the DigiPen Student Management Committee**.
 
 - 🎓 Bachelor of Computer Science in Interactive Media and Game Development
 - 🏆 Fulbright Scholar
 - 🥈 Hannam University Micro Design Hackathon 2025
-- 🎮 Specializing in Game Engine Development, AI Simulation, and Full-Stack Development
+- 🔬 Interested in model introspection, AI safety and governance
+- 🎮 Background in Game Engine Development, AI Simulation, and Full-Stack Development
 - 📍 Based in Singapore
 
 ## 💻 Tech Stack
@@ -44,31 +45,31 @@ I'm a **Software Engineer** and **Interactive Media and Game Development** stude
 
 ## 🎯 Featured Projects
 
-### 💹 [OptiPrice](https://github.com/blarencecoey/OptiPrice)
-**Full-Stack Developer | Python, Flask, Next.js, TypeScript**
-- Built comprehensive options pricing platform with Black-Scholes, Binomial Tree, and Monte Carlo methods
-- Developed Flask REST API backend with NumPy/SciPy for real-time Greeks calculations (Delta, Gamma, Vega, Theta, Rho)
-- Created Next.js frontend with interactive visualizations: price curves, sensitivity analysis, and MC simulations
-- Implemented advanced features: implied volatility calculation, model comparison, and payoff diagram generation
+### 🔬 Sparse Autoencoders, Johnson–Lindenstrauss & Superposition in Neural Activations
+**Interpretability Researcher | Python, PyTorch**
+<!-- TODO(Clarence): add repo link, model/layer studied, dictionary size, and headline result -->
+- Investigating how neural networks pack more features than they have dimensions (**superposition**), and how **sparse autoencoders** can decompose activations into interpretable features
+- Connecting the geometry to the **Johnson–Lindenstrauss lemma**: how many near-orthogonal feature directions can a low-dimensional activation space hold, and what does that imply for feature recovery?
+- Focus on what these tools can and cannot tell us about model internals, as groundwork for auditing and oversight of AI systems
 
-### 🦅 [Terra Firma - AI Flocking Simulation](https://github.com/blarencecoey)
-**AI Developer | Unity, C#, Real-Time Simulation**
-- Developed AI simulation exploring aerial traffic behavior in procedurally generated environments at DigiPen Bilbao
-- Implemented Reynolds' Boids system (separation, alignment, cohesion) with CPU multithreading optimizations
-- Achieved scalable performance supporting 32,000 autonomous agents with real-time parameter controls (80% performance increase)
-- Engineered dynamic obstacle avoidance and procedural 3D environment via Poisson Disk Sampling
+### 🧭 [AI, plainly](https://github.com/blarencecoey/AI-Plainly)
+**Researcher & Developer | JavaScript, Python, three.js**
+- Built a static AI-fluency site of 15 lessons, 13 interactive three.js diagrams and 8 hands-on tools that teach how chatbots generate text, why they invent things, and how to check them cheaply
+- Designed around one thesis: confidence in the tool and confidence in yourself are separable, so the goal is to raise self-efficacy while pulling trust in the tool down to something **calibrated**
+- Every lesson targets a documented misconception from a taxonomy built on a screened corpus of 319 papers, with its evidence trail published on an evidence page, and known limitations stated openly
+- Zero live model calls, no tracking, offline-capable, with a written equivalent for every 3D diagram
 
-### 🪞 [Smart Mirror - Hannam University Hackathon](https://github.com/blarencecoey)
-**Tools Developer | Python, Java, CSS, Computer Vision**
-- Led frontend development for I2E team's AI-powered beauty assistant solution
-- Built system using Next.js with Tailwind CSS, integrated Java and Python backend services
-- Implemented real-time facial recognition using Raspberry Pi 5 and Pi Camera 3
+### 🌌 [Latent Space Studio](https://github.com/blarencecoey/latent-space-studio)
+**Founder & Creative Technologist | WebGL, three.js, GLSL, JavaScript**
+- Solo research and creative-technology practice at the intersection of machine learning, real-time 3D and physical space
+- Hosts research notes, systems write-ups, a journal and live demos exploring machine perception and latent representations
 
-### 👓 [MuGlasses - SG Design Factory Hackathon](https://github.com/blarencecoey)
-**Tech Lead | C, C++, WebGL, TensorFlow**
-- Developed Smart Glasses Prototype for Asian Civilisations Museum in Singapore
-- Implemented personalized journey system with multilingual support and custom routes
-- Collaborated with international team from computer science, business, and media backgrounds
+## 🧱 Earlier Work
+
+- 💹 **[OptiPrice](https://github.com/blarencecoey/OptiPrice)**: options pricing platform (Black-Scholes, Binomial Tree, Monte Carlo) with a Flask API and Next.js frontend
+- 🦅 **Terra Firma**: Unity boids simulation with 32,000 agents and an 80% performance gain from CPU multithreading
+- 🪞 **[Smart Mirror](https://github.com/blarencecoey/Hannam-Micro-Design-Hackathon-2025)**: facial-recognition beauty assistant on Raspberry Pi 5, Hannam University Micro Design Hackathon 2025 (🥈)
+- 👓 **MuGlasses**: smart glasses prototype for the Asian Civilisations Museum, SG Design Factory Hackathon
 
 ## 🎓 Education
 
@@ -83,10 +84,10 @@ CS50 Introduction to Computer Science Certificate
 
 ## 🌱 Currently Learning
 
-- Advanced Game Engine Architecture
+- Mechanistic Interpretability (sparse autoencoders, superposition, feature geometry)
+- AI Safety and Governance
+- Calibrated Trust and Human-AI Interaction
 - Real-Time Rendering Techniques
-- Financial Derivatives and Quantitative Finance
-- Machine Learning for Computer Vision
 
 ## 📫 How to Reach Me
 
